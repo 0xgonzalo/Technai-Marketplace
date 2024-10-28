@@ -15,7 +15,7 @@
 
 ⚙️ Built using NextJS, RainbowKit, Hardhat, Wagmi, Viem, and Typescript,
 
-🔗 To be deployed on Polygon and Avalanche
+🔗 To be deployed on Mantle Network
 
 ## Deployed artifacts
 
